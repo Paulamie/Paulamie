@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Ana Paula Goncalves
 
-<!--
-**Paulamie/Paulamie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First Class Honours in Computer Science  
+💻 Passionate about Software Engineering, AI, and Full-Stack Development  
+🌍 Based in Bristol, UK | Fluent in English & Portuguese  
+📬 [LinkedIn](www.linkedin.com/in/ana-paula-goncalves-b1a6ba1ab) | [Email Me](Anapaulaf.g@icloud.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Projects
+- 💰 Budget Planner App (Python, ChatGPT API, SQL, Cloud Deployment)
+- 📝 AI-powered Android Journal App (Kotlin, Jetpack Compose)
+- 🧠 Occupational Health Dashboard (Machine Learning)
+- 🌐 Student Social Platform (Django, Docker)
+- ☕ **Currently working on two new projects**:  
+  - A **Java-based application** focusing on system-level design  
+  - A **React project** showcasing interactive front-end development with clean UI/UX principles
+
+---
+
+### 💡 What I Love
+- Building scalable solutions that solve real-world problems  
+- Integrating AI into everyday applications  
+- Learning new tech and collaborating with others
+
+🔍 Actively seeking graduate roles in **Software Engineering**, **AI Development**, or **Full-Stack Projects**!
