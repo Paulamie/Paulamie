@@ -3,7 +3,7 @@
 🎓 First Class Honours in Computer Science  
 💻 Passionate about Software Engineering, AI, and Full-Stack Development  
 🌍 Based in Bristol, UK | Fluent in English & Portuguese  
-📬 [LinkedIn](www.linkedin.com/in/ana-paula-goncalves-b1a6ba1ab) | [Email Me](Anapaulaf.g@icloud.com)
+📬 [LinkedIn](www.linkedin.com/in/ana-paula-goncalves-b1a6ba1ab) | [Email Me](mailto:Anapaulaf.g@icloud.com)
 
 ---
 
